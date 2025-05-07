@@ -39,7 +39,8 @@ namespace studentgrademanagement
 
         private void MainForm_Load(object sender, EventArgs e)
         {
-
+            LoginForm lf = new LoginForm();
+            lf.Show();
         }
 
         private void customizeDesign()

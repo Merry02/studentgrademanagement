@@ -652,7 +652,7 @@
             this.Controls.Add(this.panel_main);
             this.Controls.Add(this.panel_slide);
             this.Name = "MainForm";
-            this.Text = "Form1";
+            this.Text = "+";
             this.Load += new System.EventHandler(this.MainForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             this.panel_main.ResumeLayout(false);
